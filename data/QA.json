@@ -59,6 +59,42 @@
       "question": "A paramedic notices a tripping hazard in the home of a patient during an emergency call. What should the paramedic do?",
       "options": ["Tell the patient or a family member that they must fix the tripping hazard before they transport the patient to the hospital", "Talk about the findings with the patient or a family member", "Fix the tripping hazard before attending to the patient", "Recognize that it isn't the role of the paramedic to discuss topics unrelated to the emergency call"],
       "answer": "Talk about the findings with the patient or a family member"
+    },
+    {
+      "id": 11,
+      "question": "Most of a patient's psychological stress responses to an illness or injury are:",
+      "options": ["predictable, so the paramedic can prepare for them.", "not under his or her conscious control.", "a direct result of the paramedic's presence.", "related to the patient's level of maturity."],
+      "answer": "not under his or her conscious control."
+    },
+    {
+      "id": 12,
+      "question": "Upon arriving at the scene of a motor vehicle collision:",
+      "options": ["you should look for hazards as you approach the vehicle.", "the ambulance should be parked at least 200 feet away.", "traffic is usually the only hazard with which to be concerned.", "parking the ambulance on the road may cause a fire."],
+      "answer": "you should look for hazards as you approach the vehicle."
+    },
+    {
+      "id": 13,
+      "question": "Which of the following statements regarding a patient's reaction to an illness or injury and his or her cultural background is correct?",
+      "options": ["You should touch the patient early in the assessment process to determine his or her cultural customs.", "Refusal of a patient to maintain eye contact with you indicates an emotional indifference, not a cultural one.", "You will not be able to manage patient care well if you do not respect the culture of your patient.", "In most cultures, direct eye contact shows deference to the paramedic's authority and uniform."],
+      "answer": "You will not be able to manage patient care well if you do not respect the culture of your patient."
+    },
+    {
+      "id": 14,
+      "question": "When wearing gloves while taking care of a patient, you should:",
+      "options": ["avoid removing them until patient care has been completed.", "ensure that the gloves are sterile before you touch the patient.", "take them off before you drive the ambulance to the hospital.", "routinely apply two pairs of gloves for added protection."],
+      "answer": "take them off before you drive the ambulance to the hospital."
+    },
+    {
+      "id": 15,
+      "question": "Which of the following statements regarding tuberculosis (TB) is correct?",
+      "options": ["It is one of the most common diseases contracted by breathing in germs.", "The number of patients with TB has been declining over the last 5 years.", "A surgical mask should be worn when caring for any patient with TB.", "N95 respirators do not provide protection against TB as once thought."],
+      "answer": "It is one of the most common diseases contracted by breathing in germs."
+    },
+    {
+      "id": ,
+      "question": "",
+      "options": ["", "", "", ""],
+      "answer": ""
     }
   ]
 }
