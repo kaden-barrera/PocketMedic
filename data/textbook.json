@@ -1,0 +1,28 @@
+{
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "title": "Introduction to Geography",
+        "objectives": [
+          "Understand the basic concepts of geography",
+          "Identify the different types of geographical features"
+        ],
+        "content": [
+          {
+            "objective": "Understand the basic concepts of geography",
+            "data": "Geography is the study of places and the relationships between people and their environments..."
+          },
+          {
+            "objective": "Identify the different types of geographical features",
+            "data": "Geographical features include mountains, rivers, deserts, and oceans..."
+          }
+        ],
+        "miscellaneous": [
+          "Additional information about the history of geography...",
+          "Important geographical discoveries..."
+        ]
+      }
+      // Add more chapters as needed
+    ]
+  }
+  

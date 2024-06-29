@@ -91,6 +91,36 @@
       "answer": "It is one of the most common diseases contracted by breathing in germs."
     },
     {
+      "id": 16,
+      "question": "The first step in developing an injury prevention program is to:",
+      "options": ["establish goals and objectives.", "conduct a community assessment.", "plan and test interventions.", "define the injury problem."],
+      "answer": "conduct a community assessment."
+    },
+    {
+      "id": 17,
+      "question": "A 77-year-old man with end-stage COPD and renal failure is found unresponsive by his daughter. Your assessment reveals that the patient is apneic and pulseless. The daughter presents you with an out-of-hospital DNR order; however, the document expired 3 months ago. You should:",
+      "options": ["confirm that the order has expired before initiating any patient treatment.", "begin full resuscitative efforts because the DNR order is no longer valid.", "realize that the patient cannot be resuscitated and notify the coroner.", "begin CPR only and contact medical control for further guidance."],
+      "answer": "begin CPR only and contact medical control for further guidance."
+    },
+    {
+      "id": 18,
+      "question": "A 17-year-old woman presents with acute abdominal pain while at a party with her husband. You arrive at the scene, assess the patient, and advise her of the need for EMS treatment and transport. However, the patient, who is conscious and alert, refuses EMS treatment and transport and states that her husband will transport her in his car. You should:",
+      "options": ["accept her refusal because the fact that she is married makes her emancipated.", "advise her of the potential risks of refusing EMS treatment and transport.", "begin treatment using implied consent, because she is under 18 years of age.", "ensure that she has decision-making capacity and then obtain a signed refusal."],
+      "answer": "advise her of the potential risks of refusing EMS treatment and transport."
+    },
+    {
+      "id": 19,
+      "question": "Which of the following scenarios reflects a violation of EMTALA?",
+      "options": ["Paramedics transport a woman in labor to the closest hospital", "A hospital transfers an unstable patient to another facility", "An emergency department provides stabilization care only", "A registration clerk asks you if the patient has insurance"],
+      "answer": "A hospital transfers an unstable patient to another facility"
+    },
+    {
+      "id": 20,
+      "question": "A 39-year-old man with severe dehydration requires IV fluid therapy to treat his condition. The patient is conscious, alert, and oriented to person, place, time, and event. You should:",
+      "options": ["tell the patient that you are going to start an IV on him in order to replenish his body with lost fluid and electrolytes.", "start the IV to quickly restore his body fluid balance and then explain to the patient why you started the IV line.", "establish the IV line based on the law of implied consent, because his condition has impaired his decision-making capacity.", "ask him if you can start an IV and explain the reason for the IV as well as the potential risks of IV therapy."],
+      "answer": "ask him if you can start an IV and explain the reason for the IV as well as the potential risks of IV therapy."
+    },
+    {
       "id": ,
       "question": "",
       "options": ["", "", "", ""],
