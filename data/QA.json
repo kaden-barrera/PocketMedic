@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is a possible stress point in the day-to-day operations of the EMS system that would likely be identified by a comprehensive CQI program?",
+      "options": ["Increased emergency calls", "Onboarding new staff", "Personal finance issues", "Receiving facility issues"],
+      "answer": "Receiving facility issues"
+    },
+    {
+      "id": 2,
+      "question": "Compared to an EMT, an AEMT:",
+      "options": ["can legally transfer patient care to a provider of lesser training.", "can administer a variety of emergency medications.", "has a more advanced knowledge of pathophysiology.", "is trained and authorized to perform manual defibrillation."],
+      "answer": "has a more advanced knowledge of pathophysiology."
+    },
+    {
+      "id": 3,
+      "question": "In order to link research and evidence to patient care, one must:",
+      "options": ["ensure that the quality of the evidence is sufficient to justify changing patient care protocols.", "recognize that evidence is less reliable than scientific data that produce sound statistics.", "understand that only level 1 evidence can be used to justify changing patient care protocols.", "conduct research at least every 10 years and then perform a retrospective analysis of the data."],
+      "answer": "ensure that the quality of the evidence is sufficient to justify changing patient care protocols."
+    },
+    {
+      "id": 4,
+      "question": "Upon arriving at the scene of a motorcycle crash, you are approached by an EMR. It is the responsibility of the EMR to provide which of the following information?",
+      "options": ["Initial scene and patient assessment findings and any basic care that was provided to the patient", "His or her perception of the criticality of the patient's condition and suspicion for internal bleeding", "How the crash occurred and approximately when he or she first arrived at the scene", "The patient's medical history"],
+      "answer": "Initial scene and patient assessment findings and any basic care that was provided to the patient"
+    },
+    {
+      "id": 5,
+      "question": "When faced with a situation that is not addressed in your EMS system's protocols, you should:",
+      "options": ["let experience guide further care of the patient.", "radio your medical director to obtain orders.", "proceed with basic life support and transport.", "contact the nurse at the receiving facility."],
+      "answer": "radio your medical director to obtain orders."
+    },
+    {
+      "id": 6,
+      "question": "Which of the following was a required component identified by the Emergency Medical Services System Act of 1973?",
+      "options": ["National EMS certification", "Resource management", "Mutual aid agreements", "Trauma systems"],
+      "answer": "Mutual aid agreements"
+    },
+    {
+      "id": 7,
+      "question": "How should the paramedic decide which facility to transport a patient to?",
+      "options": ["Ask the patient where his or her physician is located.", "Recognize the facilities that are near major streets and highways.", "Choose the facility that is closest to the scene of the emergency.", "Choose the facility that is most capable of caring for the patient's needs."],
+      "answer": "Choose the facility that is most capable of caring for the patient's needs."
+    },
+    {
+      "id": 8,
+      "question": "A patient has requested to be transported to a specific hospital; however, the hospital does not have the proper resources to meet the patient's needs. You should:",
+      "options": ["remember that the hospital can always transfer the patient to a more appropriate facility.", "contact medical control and request permission to transport the patient to his or her choice. hospital.", "determine if there is a more appropriate medical facility within a reasonable distance.", "advise the patient that his or her hospital of choice is a poorly equipped medical facility."],
+      "answer": "determine if there is a more appropriate medical facility within a reasonable distance."
+    },
+    {
+      "id": 9,
+      "question": "The 2009 National EMS Education Standards:",
+      "options": ["require inclusion of a college-level pathophysiology course within the paramedic program.", "outline the minimum knowledge base that the paramedic must possess in order to function in the field.", "mandate that the paramedic designation must be achieved through an associate degree program.", "clearly state that all paramedic training programs must be at least 1,200 hours in length."],
+      "answer": "outline the minimum knowledge base that the paramedic must possess in order to function in the field."
+    },
+    {
+      "id": 10,
+      "question": "A paramedic notices a tripping hazard in the home of a patient during an emergency call. What should the paramedic do?",
+      "options": ["Tell the patient or a family member that they must fix the tripping hazard before they transport the patient to the hospital", "Talk about the findings with the patient or a family member", "Fix the tripping hazard before attending to the patient", "Recognize that it isn't the role of the paramedic to discuss topics unrelated to the emergency call"],
+      "answer": "Talk about the findings with the patient or a family member"
+    }
+  ]
+}
